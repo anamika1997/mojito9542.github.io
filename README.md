@@ -1,18 +1,22 @@
 # Hi there!!!!
-## A self-learner, a learning android developer, a JAVA lover, a little knowledge about some other languages out there, trying hard to defeat myself everyday- and  that's me.
-## Hi, I am Mohit Agarwal
+### Hi, I am Mohit Agarwal
+A self-learner, a learning android developer, a JAVA lover, a little knowledge about some other languages out there, trying hard to defeat myself everyday- and  that's me.
+PS:- not a web developer(sorry if u find this page horrible!!)
+I am currently pursuing my BTech. from ITER Bhubaneshwar
+PS:- You are always welcome for a coffee :)
+
 
 
 ### Want to know more about me???
 
-- [Instagram](mojito_here)
-- [Facebook](facebook.com/mohitlalitaagarwalnovember)
-- [Github](github.com/Mojito9542)
+- [Instagram](https://www.instagram.com/mojito_here/)
+- [Facebook](https://www.facebook.com/mohitlalitaagarwalnovember)
+- [Github](https://www.github.com/Mojito9542)
 - [Linkedln](https://www.linkedin.com/in/mohit-agarwal-892058143/)
 
 ### My Projects
 
-You can find all my projects [here](github.com/Mojito9542)
+You can find all my projects [here](https://www.github.com/Mojito9542)
 
 Checkout frequently for updates
 
@@ -22,4 +26,5 @@ Want to gift yourself or your organisation an app? Try me!!!
 Want Java,C or Android Classes? You can still try me !!!
 contact details:-
 Email- mohitagarwal9542@gmail.com
+Feedbacks are always welcomed!!!
 
