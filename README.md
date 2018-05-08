@@ -1,5 +1,6 @@
-# Hi there!!!!
-### Hi, I am Mohit Agarwal
+![](https://i.imgur.com/F90Dt4Y.jpg)
+
+## Hi, I am Mohit Agarwal
 <p>A self-learner, a learning android developer, a JAVA lover, a little knowledge about some other languages out there, trying hard to defeat myself everyday- and  that's me.</p>
 <p>PS:- not a web developer(sorry if u find this page horrible!!)</p>
 <p>I am currently pursuing my BTech. from ITER Bhubaneshwar</p>
