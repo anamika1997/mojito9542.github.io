@@ -1,6 +1,6 @@
 
 
-## Hi, I am Mohi agarwat  
+## Hi, I am Mohit Agarwal 
 <p>A self-learner, a learning android developer, a JAVA lover, a little knowledge about some other languages out there, trying hard to defeat myself everyday- and  that's me.</p>
 <p>PS:- noob web developer(sorry if u find this page horrible!!)</p>
 <p>I am currently pursuing my BTech. from ITER Bhubaneshwar</p>
@@ -19,7 +19,7 @@
 
 You can find all my projects [here](https://www.github.com/Mojito9542)
 
-Checkout frequently for updates
+Checkout frequently for updates.
 
 ### I am more userful than you think ;)
 
