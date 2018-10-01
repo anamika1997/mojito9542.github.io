@@ -31,5 +31,5 @@ contact details:-
 
 Email- mohitagarwal9542@gmail.com
 
-Feedbacks are always welcomed!!!
+Feedbacks are always welcome!!!
 
